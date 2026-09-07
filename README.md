@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
