@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0066-plus-one) |
+| [0835-image-overlap](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
