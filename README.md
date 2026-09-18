@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0067-add-binary) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0013-roman-to-integer) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0015-3sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0011-container-with-most-water) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
