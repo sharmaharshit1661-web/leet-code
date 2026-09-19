@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
