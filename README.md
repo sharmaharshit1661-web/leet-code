@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0070-climbing-stairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Hash Table
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
