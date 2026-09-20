@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0067-add-binary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmaharshit1661-web/leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharmaharshit1661-web/leet-code/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
