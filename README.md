@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharmaharshit1661-web/leet-code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3525-find-x-value-of-array-ii) |
+| [3870-count-commas-in-range](https://github.com/sharmaharshit1661-web/leet-code/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
